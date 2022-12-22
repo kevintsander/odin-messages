@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project demonstrates the use of standard Rails Websockets and actioncable to deliver real-time chat messageing updates. This method follows the typical rails channel setup and requires Javascript to modify the page, as is specified in the [The Odin Project Websockets and Actioncable lesson](https://www.theodinproject.com/lessons/ruby-on-rails-websockets-and-actioncable) ([instructions](https://github.com/TheOdinProject/curriculum/blob/main/ruby_on_rails/mailers_advanced_topics/actioncable_lesson.md)).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+See my other project [here](git@github.com:kevintsander/odin-messages-turbo.git) for another implentation which was created an experiment to see if I could create the same functionality with Turbo Streams instead.
